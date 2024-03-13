@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class Test {
     public static void main(String[] args) {
-        String income = "";
         String details = "";
         String incomeDetails = "";
         String outcomeDetails = "";

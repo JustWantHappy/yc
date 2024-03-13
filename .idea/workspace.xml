@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f904647d-bfb4-4397-ac59-9265a1575997" name="更改" comment="git">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-    </list>
+    <list default="true" id="f904647d-bfb4-4397-ac59-9265a1575997" name="更改" comment="鲨鱼记账系统！" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,6 +46,9 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/13940/Desktop/yy/yyc/src/Main.java",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true",
     "应用程序.Main.executor": "Run",
     "应用程序.Test.executor": "Run",
@@ -108,7 +108,7 @@
       <workItem from="1710138782434" duration="605000" />
       <workItem from="1710225455297" duration="4316000" />
       <workItem from="1710315506362" duration="67000" />
-      <workItem from="1710315582789" duration="4386000" />
+      <workItem from="1710315582789" duration="4798000" />
     </task>
     <task id="LOCAL-00001" summary="git">
       <option name="closed" value="true" />
@@ -118,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710139000996</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="鲨鱼记账系统！">
+      <option name="closed" value="true" />
+      <created>1710321511587</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710321511587</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +145,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="git" />
-    <option name="LAST_COMMIT_MESSAGE" value="git" />
+    <MESSAGE value="鲨鱼记账系统！" />
+    <option name="LAST_COMMIT_MESSAGE" value="鲨鱼记账系统！" />
   </component>
 </project>
