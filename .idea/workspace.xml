@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f904647d-bfb4-4397-ac59-9265a1575997" name="更改" comment="鲨鱼记账系统！" />
+    <list default="true" id="f904647d-bfb4-4397-ac59-9265a1575997" name="更改" comment="鲨鱼记账系统！">
+      <change afterPath="$PROJECT_DIR$/src/com/java/Test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,11 +28,16 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2dWzlsKpvOlzbUMinp7FllTkLom" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -52,10 +60,11 @@
     "vue.rearranger.settings.migration": "true",
     "应用程序.Main.executor": "Run",
     "应用程序.Test.executor": "Run",
+    "应用程序.Test01.executor": "Run",
     "应用程序.ThreadBlock.executor": "Run"
   }
 }]]></component>
-  <component name="RunManager" selected="应用程序.Test">
+  <component name="RunManager" selected="应用程序.Test01">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="yyc" />
@@ -65,6 +74,19 @@
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.java.Test" />
+      <module name="yyc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.Test01" />
       <module name="yyc" />
       <extension name="coverage">
         <pattern>
@@ -91,6 +113,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.Test01" />
         <item itemvalue="应用程序.Test" />
         <item itemvalue="应用程序.ThreadBlock" />
         <item itemvalue="应用程序.Main" />
@@ -108,7 +131,7 @@
       <workItem from="1710138782434" duration="605000" />
       <workItem from="1710225455297" duration="4316000" />
       <workItem from="1710315506362" duration="67000" />
-      <workItem from="1710315582789" duration="4798000" />
+      <workItem from="1710315582789" duration="14602000" />
     </task>
     <task id="LOCAL-00001" summary="git">
       <option name="closed" value="true" />
@@ -126,7 +149,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710321511587</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="鲨鱼记账系统！">
+      <option name="closed" value="true" />
+      <created>1710322256314</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710322256314</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
